@@ -70,7 +70,7 @@ Linki do wszystkich głównych sekcji
 ---
 
 ### 6. **🔐 Environment Variables (Zmienne Środowiskowe)**
-- Lista wymaganych zmiennych ENV
+- Lista wymaganych zmiennych ENV - sczytaj je z pliku .env.example lub z funkcji validacyjnych zmiennych środowiskowych
 - Przykładowa konfiguracja (.env.example)
 - Sposób walidacji (T3 Env, Zod, itp.)
 - Instrukcje ustawienia
@@ -92,6 +92,7 @@ Wszystkie dostępne komendy npm/yarn/pnpm pogrupowane według kategorii:
 ### 8. **📁 Struktura Projektu**
 - Diagram struktury folderów
 - Opis głównych katalogów (app/, components/, lib/, itp.)
+- Opis plików konfiguracyjnych
 - Konwencje nazewnictwa
 
 ---
